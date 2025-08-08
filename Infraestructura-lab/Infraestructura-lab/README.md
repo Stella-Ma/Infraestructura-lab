@@ -1,6 +1,6 @@
 # Laboratorio de Infraestructura y Cloud
 
-Este repositorio recopila mis prácticas, proyectos y configuraciones relacionadas con **infraestructura de servidores**, **virtualización**, **redes**, **ciberseguridad** y **cloud computing** (Azure, AWS, Google Cloud).
+Este repositorio recopila  prácticas, proyectos y configuraciones relacionadas con **infraestructura de servidores**, **virtualización**, **redes**, **ciberseguridad** y **cloud computing** (Azure, AWS, Google Cloud).
 
 Lo desarrollo en mi tiempo libre como motor de aprendizaje y como espacio para crear, experimentar y mejorar mis habilidades técnicas, con el objetivo de aportar soluciones reales en el mundo de la industria tecnológica.
 
